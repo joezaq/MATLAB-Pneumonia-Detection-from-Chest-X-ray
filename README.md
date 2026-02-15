@@ -21,7 +21,7 @@ The skewness distribution was analysed to assess image brightness, contrast leve
 These results suggest that pneumonia bacteria images contain a higher proportion of bright pixels compared to normal and pneumonia virus images, while normal images show greater brightness than pneumonia virus images.
 
                            
-<image src="Images/skewness1.png" width=300>  <image src="Images/SkewnessIM.png" width=300>  <image src="Images/SkewnessVir.png" width=300> 
+<image src="Images/skewness1.png" width=250>  <image src="Images/SkewnessIM.png" width=250>  <image src="Images/SkewnessVir.png" width=250> 
 
 ### Support Vector Machine
 The Support Vector Machine (SVM) model demonstrated strong classification performance in distinguishing between normal and pneumonia chest X-ray images.
