@@ -32,4 +32,4 @@ The confusion matrix shows 83 correct predictions and 6 misclassifications, indi
 
 
 ### Conclusion
-This project demonstrates the effectiveness of machine learning techniques for automated pneumonia detection from chest X-ray images. Through image preprocessing, feature extraction, and classification using SVM and HOG, the study shows that machine learning can improve diagnostic accuracy and support faster medical decision-making.
+This project demonstrates the effectiveness of machine learning techniques for automated pneumonia detection from chest X-ray images. Through image preprocessing, feature extraction, and SVM and HOG-based classification, the study shows that machine learning can improve diagnostic accuracy and support faster medical decision-making.
