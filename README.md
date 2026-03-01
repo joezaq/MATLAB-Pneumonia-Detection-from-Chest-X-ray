@@ -26,7 +26,7 @@ These results suggest that pneumonia bacteria images contain a higher proportion
 ### Support Vector Machine
 The Support Vector Machine (SVM) model demonstrated strong classification performance in distinguishing between normal and pneumonia chest X-ray images.
 
-The confusion matrix shows 83 correct predictions and 6 misclassifications, indicating high model reliability. The model achieved a precision of 0.932, recall of 0.934, and F1-score of 0.933, reflecting balanced performance in detecting both positive and negative cases.
+The confusion matrix shows 83 correct predictions and 6 misclassifications, indicating high model reliability. The model achieved a precision of 0.932, recall of 0.934, and an F1-score of 0.933, reflecting balanced performance in detecting both positive and negative cases.
 
 <image src="Images/Screenshot.png" width=300> 
 
