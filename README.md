@@ -1,5 +1,5 @@
 # MATLAB-Pneumonia-Detection-from-Chest-X-ray
-This project develops a machine learning system for automated pneumonia detection from chest X-ray images. The aim is to improve diagnostic accuracy, support medical professionals, and enable faster clinical decision-making through intelligent image classification.
+This project develops a machine learning system for automated pneumonia detection from chest X-ray images. The aim is to improve diagnostic accuracy, support medical professionals, and enable faster clinical decision-making through intelligent image classification..
 
 ## Overview
 The system applies image preprocessing, feature extraction, and machine learning techniques to classify chest X-ray images into normal and pneumonia cases. The approach focuses on improving early diagnosis, reducing human error, and demonstrating the practical application of machine learning in healthcare
