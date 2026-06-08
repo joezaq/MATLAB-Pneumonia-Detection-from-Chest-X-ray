@@ -2,7 +2,7 @@
 This project develops a machine learning system for automated pneumonia detection from chest X-ray images. The aim is to improve diagnostic accuracy, support medical professionals, and enable faster clinical decision-making through intelligent image classification..
 
 ## Overview
-The system applies image preprocessing, feature extraction, and machine learning techniques to classify chest X-ray images into normal and pneumonia cases. The approach focuses on improving early diagnosis, reducing human error, and demonstrating the practical application of machine learning in healthcare.
+The system applies image preprocessing, feature extraction, and machine learning techniques to classify chest X-ray images into normal and pneumonia cases. The approach focuses on improving early diagnosis, reducing human error, and demonstrating the practical application of machine learning in healthcare..
 
 The project uses a publicly available chest X-ray dataset containing over 5,000 images, consisting of both normal and pneumonia cases. The data undergoes preprocessing steps such as resizing, normalisation, data augmentation, and feature extraction to improve model performance and reduce bias.
 
